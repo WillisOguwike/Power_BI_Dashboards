@@ -2,7 +2,7 @@
 
 ![Dashboard Page 1](Images/Project1_Page1.png)
 
-[View interaction dashboard here on the Power BI Services](https://tinyurl.com/4x7258yr)
+[View interactive dashboard here on the Power BI Services](https://tinyurl.com/4x7258yr)
 
 ## Introduction
 
